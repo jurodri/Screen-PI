@@ -2,3 +2,4 @@
 
 
 - Juliano Rodrigues
+- Maria Eduarda
