@@ -1,4 +1,4 @@
 # Integrantes
 
 
-### - Juliano Rodrigues
+- Juliano Rodrigues
